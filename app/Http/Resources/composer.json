@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/Resources",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Reza",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+
+  }
+}
